@@ -6,7 +6,8 @@
 *
 *  Name: Nizon          Student ID: 107229213            Date: September 27, 2024
 *
-*  Online (Vercel) URL: _______________________________________________________
+*  Online (Vercel) URL: https://assignment-1-nine-dun.vercel.app/
+*  GitHub URL: https://github.com/Nizon114/Assignment-1 
 *
 ********************************************************************************/
 const express = require('express');
