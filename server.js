@@ -1,3 +1,14 @@
+/*********************************************************************************
+*  BTI325 – Assignment 1
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.
+*  No part of this assignment has been copied manually or electronically from any other source
+*  (including web sites) or distributed to other students.
+*
+*  Name: Nizon          Student ID: 107229213            Date: September 27, 2024
+*
+*  Online (Vercel) URL: _______________________________________________________
+*
+********************************************************************************/
 const express = require('express');
 const path = require("path");
 const app = express();
